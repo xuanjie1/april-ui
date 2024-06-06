@@ -31,3 +31,4 @@ Build library via `father`,
 ```bash
 $ npm run build
 ```
+xuanjie
